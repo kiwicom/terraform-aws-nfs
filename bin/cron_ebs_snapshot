@@ -1,0 +1,1 @@
+30 5,19 * * * root /usr/local/bin/ebs_snapshot
